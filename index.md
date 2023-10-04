@@ -4,8 +4,8 @@
 
 ### My Projects
 
-#### iFood: Analyzing Brazil's DoorDash alternative(/bank)
-<img src="images/iFoodHeader.png"/>
+#### [iFood: Analyzing Brazil's DoorDash Alternative](https://www.linkedin.com/pulse/ifood-quick-analysis-brazils-doordash-alternative-wade-fisher/)
+[<img src="images/iFoodHeader.png"/>](https://www.linkedin.com/pulse/ifood-quick-analysis-brazils-doordash-alternative-wade-fisher/)
 This project is a quick Excel analysis of a sample of sales data from iFood's 2017 year. In this project, I make usee of pivot tables, various charts, and some linear regression to identify trends within their customer base.
 
 ---
