@@ -11,9 +11,9 @@ This project is a quick Excel analysis of a sample of sales data from iFood's 20
 - Excel charts<br>
 - Linear regression<br>
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### [Massachusetts Schools Analysis: 2017](https://www.linkedin.com/pulse/foundation-nation-data-behind-next-generation-workforce-wade-fisher/?trackingId=%2Fs%2B%2FUkHtSgGmFG%2BavczCoQ%3D%3D)
+[<img src="images/education.png"/>](https://www.linkedin.com/pulse/foundation-nation-data-behind-next-generation-workforce-wade-fisher/?trackingId=%2Fs%2B%2FUkHtSgGmFG%2BavczCoQ%3D%3D)
+In this project, I used Tableau to visualize various metrics for academic excellence within pre-collegiate schools in the State of Massachusetts.<br>
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
